@@ -1,0 +1,13 @@
+{
+  "config": {
+    "name": "Skillboxsearch_engine",
+    "version": "0.1",
+    "max_responses": 5
+  },
+  "files": [
+    "E:/textsForCheck/file001.txt",
+    "E:/textsForCheck/file002.txt",
+    "E:/textsForCheck/file003.txt",
+    "E:/textsForCheck/file004.txt"
+  ]
+}

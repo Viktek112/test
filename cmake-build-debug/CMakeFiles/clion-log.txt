@@ -1,0 +1,15 @@
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S "E:\MyPathToGlory\My massive fucking project\search_engine" -B "E:\MyPathToGlory\My massive fucking project\search_engine\cmake-build-debug"
+-- Using the multi-header code from E:/MyPathToGlory/My massive fucking project/search_engine/nlohmann_json/include/
+CMake Warning (dev) at cmake-build-debug/_deps/googletest-src/googletest/CMakeLists.txt:22 (option):
+  Policy CMP0077 is not set: option() honors normal variables.  Run "cmake
+  --help-policy CMP0077" for policy details.  Use the cmake_policy command to
+  set the policy and suppress this warning.
+
+  For compatibility with older versions of CMake, option is clearing the
+  normal variable 'gtest_disable_pthreads'.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found Python: C:/Users/Витёк/AppData/Local/Programs/Python/Python311/python.exe (found version "3.11.4") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/MyPathToGlory/My massive fucking project/search_engine/cmake-build-debug

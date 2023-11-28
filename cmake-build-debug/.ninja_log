@@ -1,0 +1,11 @@
+# ninja log v5
+0	462	7201078440566555	CMakeFiles/search_engine.dir/main.cpp.obj	cf91473442fb2f83
+463	539	7201078441314573	search_engine.exe	1f07d6b816044ba9
+7	1014	7201080240545088	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	be77c1dca8cd4330
+3	4637	7201080276708399	CMakeFiles/search_engine.dir/main.cpp.obj	2c1bf079ad889a2a
+6	5541	7201080285724533	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	cbb2f96d57dc5101
+5543	7450	7201080304909270	lib/libgtestd.a	9a30261c9583a960
+7450	7500	7201080305417714	lib/libgtest_maind.a	2d8729c939ca1ce
+7500	12577	7201080356169452	search_engine.exe	29d975eeaffb8c15
+7500	12577	7201080356169452	search_engine[1]_tests.cmake	29d975eeaffb8c15
+7500	12577	7201080356169452	E:/MyPathToGlory/My massive fucking project/search_engine/cmake-build-debug/search_engine[1]_tests.cmake	29d975eeaffb8c15
